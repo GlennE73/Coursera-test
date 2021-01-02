@@ -34,7 +34,7 @@ p {
   font-size: 1em;
   color: white;
   width: 90%;
-  height: 200px;
+  height: 150px;
   margin-left: auto;
   margin-right: auto;
   clear: right;
@@ -45,7 +45,6 @@ div.content {
   background-color: #cc7351;
   margin: 10px;
 }
-
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
